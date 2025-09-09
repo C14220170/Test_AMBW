@@ -4,8 +4,8 @@ const urlsToCache = [
   './index.html',
   './app.js',
   './style.css',
-  './icons/android-chrome-192x192.png',
-  './icons/android-chrome-512x512.png',
+  './icons/food-192x192.png',
+  './icons/food-512x512.png',
   './resep.jpg'
 ];
 
