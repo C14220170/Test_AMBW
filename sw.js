@@ -1,12 +1,12 @@
 const CACHE_NAME = 'resep-cache-v1';
 const urlsToCache = [
-  '/',
-  '/index.html',
-  '/app.js',
-  '/style.css',
-  'icons/android-chrome-192x192.png',
-  'icons/android-chrome-512x512.png',
-  '/resep.jpg'
+  './',
+  './index.html',
+  './app.js',
+  './style.css',
+  './icons/android-chrome-192x192.png',
+  './icons/android-chrome-512x512.png',
+  './resep.jpg'
 ];
 
 self.addEventListener('install', event => {
