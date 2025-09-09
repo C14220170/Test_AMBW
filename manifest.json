@@ -2,7 +2,7 @@
   "name": "Resep Offline",
   "short_name": "Resep",
   "description": "Aplikasi resep masakan yang dapat diakses secara offline",
-  "start_url": "/Test-AMBW/index.html",
+  "start_url": "/Test_AMBW/index.html",
   "display": "standalone",
   "background_color": "#fafafa",
   "theme_color": "#fafafa",
