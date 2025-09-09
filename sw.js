@@ -1,4 +1,4 @@
-const CACHE_NAME = 'resep-cache-v1';
+const CACHE_NAME = 'resep-cache-v2';
 const urlsToCache = [
   './',
   './index.html',
